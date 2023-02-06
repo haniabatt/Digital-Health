@@ -1,5 +1,6 @@
 # Digital Solutions for Alcohol, tobacco, other drug use, and gambling interventions
 ![digital health](download.jpeg)
+
 Digital solutions have the ability to completely change the way that drug abuse is prevented and treated, as well as other high-risk lifestyle behaviours like gambling. This article intends to advance the creation of digital solutions to increase the effectiveness and facilitate the use of brief treatments in the areas of alcohol, tobacco, cannabis, prescription or illegal drug use, and gambling.
 
 # How can digital solutions be incorporated into the healthcare system to make them useful tools that both patients and healthcare professionals can use?
